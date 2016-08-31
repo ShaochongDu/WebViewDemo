@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		921EAD1C1D7669E300A3FA50 /* testWebView.html in Resources */ = {isa = PBXBuildFile; fileRef = 921EAD1B1D7669E300A3FA50 /* testWebView.html */; };
 		92B90BFB1D7530780005FDB5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 92B90BFA1D7530780005FDB5 /* main.m */; };
 		92B90BFE1D7530780005FDB5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 92B90BFD1D7530780005FDB5 /* AppDelegate.m */; };
 		92B90C011D7530780005FDB5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92B90C001D7530780005FDB5 /* ViewController.m */; };
@@ -57,6 +58,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		921EAD1B1D7669E300A3FA50 /* testWebView.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = testWebView.html; sourceTree = "<group>"; };
 		92B90BF61D7530780005FDB5 /* WebViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92B90BFA1D7530780005FDB5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		92B90BFC1D7530780005FDB5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -180,6 +182,7 @@
 				92B90DD21D7587AF0005FDB5 /* demo0.jpg */,
 				92B90DD41D7588060005FDB5 /* demo1.jpg */,
 				92B90DD61D75888A0005FDB5 /* DemoScreenShot.gif */,
+				921EAD1B1D7669E300A3FA50 /* testWebView.html */,
 				92B90C051D7530790005FDB5 /* Assets.xcassets */,
 				92B90C071D7530790005FDB5 /* LaunchScreen.storyboard */,
 				92B90C0A1D7530790005FDB5 /* Info.plist */,
@@ -361,6 +364,7 @@
 				92B90DD31D7587AF0005FDB5 /* demo0.jpg in Resources */,
 				92B90C061D7530790005FDB5 /* Assets.xcassets in Resources */,
 				92B90DD71D75888A0005FDB5 /* DemoScreenShot.gif in Resources */,
+				921EAD1C1D7669E300A3FA50 /* testWebView.html in Resources */,
 				92B90C041D7530780005FDB5 /* Main.storyboard in Resources */,
 				92B90DD51D7588060005FDB5 /* demo1.jpg in Resources */,
 			);

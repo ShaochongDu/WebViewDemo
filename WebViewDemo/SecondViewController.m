@@ -21,8 +21,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    //  8张图
-    NSString *url = @"http://cps-lib.gongyeyun.com/Page/Activity.aspx?id=40fbdeda-443b-49a0-8b1b-dd16cc5f15b5";
+    //  7张图
+    NSString *url = @"http://cps-lib.gongyeyun.com/Page/Activity.aspx?id=a00768f2-174a-42f5-b4cb-7214ca58003e";
     //  3张图
 //    NSString *url = @"http://cps-lib.gongyeyun.com/Page/Activity.aspx?id=7ce6f17c-0477-4408-be4c-577f8c8e962f";
     //  0张图
